@@ -9,10 +9,10 @@ Sistema de inscrições do evento: programação, agenda pessoal, vagas, lista d
 
 | Integrante | Responsável por |
 | --- | --- |
-| _Nome 1_ | _ex.: regras de src/dominio e testes_ |
-| _Nome 2_ | _ex.: contextos, serviços e localStorage_ |
-| _Nome 3_ | _ex.: telas de programação, detalhe e palestrantes_ |
-| _Nome 4_ | _ex.: cadastro, agenda, painel e publicação_ |
+| Pedro Rusvel | Regras de negócio e testes (`src/dominio`), serviços e contextos (`src/servicos`, `src/contexto`), publicação |
+| Kelry Silva | Telas e componentes (`src/paginas`, `src/componentes`), formulário de cadastro, estilos (`index.css`) e README |
+
+Curso: Análise e Desenvolvimento de Sistemas (ADS) · Disciplina: Programação para Web · Professor: Marcos David Souza Ramos · Centro Universitário Unibalsas
 
 ## Como rodar
 
