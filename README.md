@@ -2,7 +2,6 @@
 
 Sistema de inscrições do evento: programação, agenda pessoal, vagas, lista de espera e painel do organizador.
 
-
 **Aplicação publicada:** https://aplica-o-em-react.vercel.app/
 **Tema:** B – Semana de Tecnologia 2026
 
@@ -37,7 +36,36 @@ npm run build   # confere os tipos e gera a pasta dist
 | `/#/organizador` | Painel de ocupação |
 | qualquer outra | Página de "não encontrado" |
 
-_Incluir aqui uma captura de tela de cada rota._
+### Capturas de tela da aplicação
+
+**Início** — visão geral do evento e atividades com vagas disponíveis.
+
+![Tela inicial](docs/inicio.png)
+
+**Programação** — atividades por dia, com busca e filtros.
+
+![Programação](docs/programacao.png)
+
+**Detalhes da atividade** — informações do minicurso e inscrição.
+
+![Detalhe da atividade](docs/detalhe-atividade.png)
+
+**Palestrantes** — lista de palestrantes e suas apresentações.
+
+![Palestrantes](docs/palestrantes.png)
+
+**Cadastro** — formulário para participantes.
+
+![Cadastro de participante](docs/cadastro.png)
+
+**Minha agenda** — estado inicial sem participante selecionado.
+
+![Minha agenda](docs/minha-agenda.png)
+
+**Organizador** — painel inicial sem inscrições realizadas.
+
+![Painel do organizador](docs/organizador.png)
+
 
 ## Regras de negócio
 
