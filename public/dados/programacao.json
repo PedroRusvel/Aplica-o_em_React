@@ -1,0 +1,281 @@
+{
+  "trilhas": [
+    "Inteligência Artificial",
+    "Desenvolvimento Web",
+    "Dados e Infraestrutura"
+  ],
+  "palestrantes": [
+    {
+      "id": "helena",
+      "nome": "Helena Duarte",
+      "cargo": "Pesquisadora em inteligência artificial",
+      "miniBio": "Pesquisa o uso de IA em cadeias produtivas do Cerrado e ensina engenharia de prompts para equipes de tecnologia."
+    },
+    {
+      "id": "marcos",
+      "nome": "Marcos Vieira",
+      "cargo": "Desenvolvedor front-end sênior",
+      "miniBio": "Trabalha há dez anos com React e TypeScript e defende interfaces acessíveis desde o primeiro componente."
+    },
+    {
+      "id": "luciana",
+      "nome": "Luciana Barros",
+      "cargo": "Cientista de dados",
+      "miniBio": "Atua com dados abertos de municípios maranhenses e ensina Python e SQL para quem está começando."
+    },
+    {
+      "id": "rafael",
+      "nome": "Rafael Nogueira",
+      "cargo": "Engenheiro DevOps",
+      "miniBio": "Automatiza entregas com contêineres e integração contínua em empresas de software do Nordeste."
+    },
+    {
+      "id": "camila",
+      "nome": "Camila Fontenele",
+      "cargo": "Especialista em segurança de aplicações",
+      "miniBio": "Faz testes de invasão em sistemas web e treina equipes para evitar as falhas mais comuns."
+    },
+    {
+      "id": "tiago",
+      "nome": "Tiago Lima",
+      "cargo": "Mantenedor de projetos open source",
+      "miniBio": "Contribui com software livre e ajuda estudantes a fazerem o primeiro pull request."
+    }
+  ],
+  "atividades": [
+    {
+      "id": "abertura",
+      "titulo": "Abertura: IA no agronegócio",
+      "tipo": "palestra",
+      "trilha": "Inteligência Artificial",
+      "data": "2026-12-01",
+      "inicio": "19:00",
+      "fim": "20:00",
+      "sala": "Auditório",
+      "capacidade": 3,
+      "palestranteId": "helena",
+      "descricao": "Como a inteligência artificial já ajuda produtores do sul do Maranhão a decidir plantio, colheita e venda."
+    },
+    {
+      "id": "react",
+      "titulo": "Minicurso de React",
+      "tipo": "minicurso",
+      "trilha": "Desenvolvimento Web",
+      "data": "2026-12-01",
+      "inicio": "19:30",
+      "fim": "21:30",
+      "sala": "Laboratório 1",
+      "capacidade": 20,
+      "palestranteId": "marcos",
+      "descricao": "Do primeiro componente ao estado compartilhado: monte uma pequena aplicação em duas horas."
+    },
+    {
+      "id": "git",
+      "titulo": "Oficina de Git e GitHub",
+      "tipo": "oficina",
+      "trilha": "Desenvolvimento Web",
+      "data": "2026-12-01",
+      "inicio": "20:00",
+      "fim": "22:00",
+      "sala": "Laboratório 2",
+      "capacidade": 20,
+      "palestranteId": "tiago",
+      "descricao": "Commits, branches e pull requests na prática, com um repositório real."
+    },
+    {
+      "id": "prompts",
+      "titulo": "Engenharia de prompts na prática",
+      "tipo": "oficina",
+      "trilha": "Inteligência Artificial",
+      "data": "2026-12-01",
+      "inicio": "20:00",
+      "fim": "21:30",
+      "sala": "Laboratório 3",
+      "capacidade": 25,
+      "palestranteId": "helena",
+      "descricao": "Escrever instruções claras para modelos de linguagem e avaliar as respostas."
+    },
+    {
+      "id": "acessibilidade",
+      "titulo": "Acessibilidade na web",
+      "tipo": "palestra",
+      "trilha": "Desenvolvimento Web",
+      "data": "2026-12-01",
+      "inicio": "20:00",
+      "fim": "21:00",
+      "sala": "Auditório",
+      "capacidade": 80,
+      "palestranteId": "marcos",
+      "descricao": "Teclado, leitor de tela e contraste: o que faz uma página funcionar para todo mundo."
+    },
+    {
+      "id": "python",
+      "titulo": "Minicurso de Python para dados",
+      "tipo": "minicurso",
+      "trilha": "Dados e Infraestrutura",
+      "data": "2026-12-02",
+      "inicio": "19:00",
+      "fim": "22:00",
+      "sala": "Laboratório 1",
+      "capacidade": 20,
+      "palestranteId": "luciana",
+      "descricao": "Leitura de planilhas, limpeza e gráficos com Python em três horas de prática."
+    },
+    {
+      "id": "dados-abertos",
+      "titulo": "Dados abertos e cidades inteligentes",
+      "tipo": "palestra",
+      "trilha": "Dados e Infraestrutura",
+      "data": "2026-12-02",
+      "inicio": "19:00",
+      "fim": "20:00",
+      "sala": "Auditório",
+      "capacidade": 80,
+      "palestranteId": "luciana",
+      "descricao": "O que os dados públicos dos municípios revelam quando alguém se dá ao trabalho de analisá-los."
+    },
+    {
+      "id": "api",
+      "titulo": "Oficina de APIs com Express",
+      "tipo": "oficina",
+      "trilha": "Desenvolvimento Web",
+      "data": "2026-12-02",
+      "inicio": "19:00",
+      "fim": "21:00",
+      "sala": "Laboratório 2",
+      "capacidade": 20,
+      "palestranteId": "marcos",
+      "descricao": "Crie rotas, devolva JSON e consuma tudo de uma aplicação React."
+    },
+    {
+      "id": "sql",
+      "titulo": "Oficina de SQL na prática",
+      "tipo": "oficina",
+      "trilha": "Dados e Infraestrutura",
+      "data": "2026-12-02",
+      "inicio": "19:00",
+      "fim": "21:00",
+      "sala": "Laboratório 3",
+      "capacidade": 20,
+      "palestranteId": "luciana",
+      "descricao": "Consultas, junções e agregações para responder perguntas de verdade."
+    },
+    {
+      "id": "ia-etica",
+      "titulo": "Ética e vieses em IA",
+      "tipo": "palestra",
+      "trilha": "Inteligência Artificial",
+      "data": "2026-12-02",
+      "inicio": "20:15",
+      "fim": "21:15",
+      "sala": "Auditório",
+      "capacidade": 80,
+      "palestranteId": "helena",
+      "descricao": "Quando um modelo erra, quem responde? Exemplos de vieses e formas de reduzi-los."
+    },
+    {
+      "id": "carreira",
+      "titulo": "Carreira em tecnologia no Maranhão",
+      "tipo": "palestra",
+      "trilha": "Desenvolvimento Web",
+      "data": "2026-12-02",
+      "inicio": "21:30",
+      "fim": "22:30",
+      "sala": "Auditório",
+      "capacidade": 100,
+      "palestranteId": "tiago",
+      "descricao": "Caminhos para estudantes de ADS: estágio, projetos abertos e trabalho remoto."
+    },
+    {
+      "id": "docker",
+      "titulo": "Minicurso de Docker",
+      "tipo": "minicurso",
+      "trilha": "Dados e Infraestrutura",
+      "data": "2026-12-03",
+      "inicio": "19:00",
+      "fim": "21:00",
+      "sala": "Laboratório 1",
+      "capacidade": 20,
+      "palestranteId": "rafael",
+      "descricao": "Imagens, contêineres e volumes: empacote uma aplicação e rode em qualquer máquina."
+    },
+    {
+      "id": "seguranca",
+      "titulo": "Minicurso de segurança web",
+      "tipo": "minicurso",
+      "trilha": "Dados e Infraestrutura",
+      "data": "2026-12-03",
+      "inicio": "21:00",
+      "fim": "22:00",
+      "sala": "Laboratório 2",
+      "capacidade": 20,
+      "palestranteId": "camila",
+      "descricao": "Injeção de código, XSS e senhas fracas: ataque e defesa em uma hora."
+    },
+    {
+      "id": "owasp",
+      "titulo": "Principais riscos em aplicações web",
+      "tipo": "palestra",
+      "trilha": "Dados e Infraestrutura",
+      "data": "2026-12-03",
+      "inicio": "19:00",
+      "fim": "20:00",
+      "sala": "Auditório",
+      "capacidade": 80,
+      "palestranteId": "camila",
+      "descricao": "Um passeio pelos riscos mais frequentes e por como cada um aparece no código."
+    },
+    {
+      "id": "deploy",
+      "titulo": "Oficina de deploy com GitHub Actions",
+      "tipo": "oficina",
+      "trilha": "Dados e Infraestrutura",
+      "data": "2026-12-03",
+      "inicio": "19:00",
+      "fim": "21:00",
+      "sala": "Laboratório 3",
+      "capacidade": 20,
+      "palestranteId": "rafael",
+      "descricao": "Teste e publique automaticamente a cada push."
+    },
+    {
+      "id": "typescript",
+      "titulo": "Minicurso de TypeScript do zero",
+      "tipo": "minicurso",
+      "trilha": "Desenvolvimento Web",
+      "data": "2026-12-03",
+      "inicio": "19:30",
+      "fim": "21:30",
+      "sala": "Laboratório 4",
+      "capacidade": 20,
+      "palestranteId": "marcos",
+      "descricao": "Tipos, interfaces e uniões para pegar erros antes de rodar o código."
+    },
+    {
+      "id": "ia-produtos",
+      "titulo": "IA generativa em produtos reais",
+      "tipo": "palestra",
+      "trilha": "Inteligência Artificial",
+      "data": "2026-12-03",
+      "inicio": "20:00",
+      "fim": "21:00",
+      "sala": "Auditório",
+      "capacidade": 80,
+      "palestranteId": "helena",
+      "descricao": "Onde a IA generativa agrega valor em um produto e onde só aumenta o custo."
+    },
+    {
+      "id": "encerramento",
+      "titulo": "Encerramento e sorteio de brindes",
+      "tipo": "palestra",
+      "trilha": "Desenvolvimento Web",
+      "data": "2026-12-03",
+      "inicio": "21:30",
+      "fim": "22:30",
+      "sala": "Auditório",
+      "capacidade": 100,
+      "palestranteId": "tiago",
+      "descricao": "Balanço da semana, certificados e sorteio."
+    }
+  ]
+}
