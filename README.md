@@ -2,7 +2,8 @@
 
 Sistema de inscrições do evento: programação, agenda pessoal, vagas, lista de espera e painel do organizador.
 
-**Aplicação publicada:** _colar o link aqui_
+
+**Aplicação publicada:** https://aplica-o-em-react.vercel.app/
 **Tema:** B – Semana de Tecnologia 2026
 
 ## Equipe
